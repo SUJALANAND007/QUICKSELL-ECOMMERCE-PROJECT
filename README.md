@@ -1,13 +1,3 @@
----
-title: QuickSell E-commerce Storefront
-emoji: 🛒
-colorFrom: orange
-colorTo: black
-sdk: static
-app_file: index.html
-pinned: true
----
-
 # QuickSell E-commerce Storefront
 
 A high-performance, fully responsive e-commerce interface built with modern Vanilla JavaScript, HTML5, and CSS3. This project replicates a premium shopping experience with lightning-fast delivery and smart product management.
